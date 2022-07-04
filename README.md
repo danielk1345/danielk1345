@@ -26,8 +26,6 @@
 ### 📈 My GitHub Stats:
 <p align="center">
 <a href="https://github.com/danielkim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielk1345&theme=prussian&hide_border=true"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielk1345&count_private=true&hide=stars&show_icons=true&theme=prussian&hide_border=true"/>
 </a>
 </p>
