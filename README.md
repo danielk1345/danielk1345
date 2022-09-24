@@ -1,7 +1,7 @@
 # Hello! I'm Daniel 
 
 ### About me                                              
-- 📚 I’m currently studying Computer Science and Finance at the University of Waterloo.
+- 📚 I’m currently studying Computer Science at the University of Waterloo.
 - 🌱 I’m currently learning data analytics and back-end development.
 - 🥋 Fun fact: I'm a third-degree black belt in Taekwondo!
 
